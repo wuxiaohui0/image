@@ -4,7 +4,7 @@ import uuid
 
 def get_image_url(result_code):
     headers = {
-        "mj-api-secret": "w5AAU0pj0kYHIkTA"
+        "mj-api-secret": ""
     }
 
     while True:
